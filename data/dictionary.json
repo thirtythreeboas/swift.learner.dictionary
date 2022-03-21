@@ -1,8 +1,569 @@
 {
-  'Apple Juice': [],
-  'Real Talk': [],
-  'Winter is Coming': [],
-  'Better than Others': [],
-  'Upgrade': [],
-  'Guru': []
+  "Apple Juice": [
+    {
+      "rus": ["мочь", "уметь"],
+      "eng": ["can"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["отправлять", "посылать"],
+      "eng": ["send"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["надо", "нужно", "нуждаться"],
+      "eng": ["need"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["хотеть"],
+      "eng": ["want"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["смотреть"],
+      "eng": ["look", "watch"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["слушать что-то/кого-то"],
+      "eng": ["listen to"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["улыбаться", "улыбка"],
+      "eng": ["smile"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["счастливый"],
+      "eng": ["happy"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["грустный"],
+      "eng": ["sad"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["потому что"],
+      "eng": ["because"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["видеть"],
+      "eng": ["see"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["смотреть на"],
+      "eng": ["look at"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["классный", "крутой"],
+      "eng": ["cool"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["всё"],
+      "eng": ["everything"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["помощь", "помогать"],
+      "eng": ["help"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["рассказать"],
+      "eng": ["tell"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["показать", "показывать", "показ", "шоу"],
+      "eng": ["show"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["делать", "заниматься"],
+      "eng": ["do"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["как"],
+      "eng": ["how"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["дать", "давать"],
+      "eng": ["give"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["взять", "брать"],
+      "eng": ["take"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["класть", "ложить", "ставить"],
+      "eng": ["put"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["спрашивать", "просить"],
+      "eng": ["ask"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ответить", "отвечать", "ответ"],
+      "eng": ["answer"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["использовать", "пользоваться"],
+      "eng": ["use"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["получать"],
+      "eng": ["get"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["думать"],
+      "eng": ["think"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["знать"],
+      "eng": ["know"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["понять", "понимать"],
+      "eng": ["understand"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["голодный"],
+      "eng": ["hungry"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сытый"],
+      "eng": ["full"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["рано, ранний"],
+      "eng": ["early"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["поздно", "поздний"],
+      "eng": ["late"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["старый"],
+      "eng": ["old"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["новый"],
+      "eng": ["new"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["молодой"],
+      "eng": ["young"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["правый", "верный", "правильный"],
+      "eng": ["right"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["объяснять", "объяснить"],
+      "eng": ["explain"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["хорошо"],
+      "eng": ["well"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["очень"],
+      "eng": ["very"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["тогда", "затем", "потом"],
+      "eng": ["then"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["бесплатный", "свободный"],
+      "eng": ["free"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["открытый", "открывать"],
+      "eng": ["open"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["закрывать", "близкий", "молчаливый", "замкнутый"],
+      "eng": ["close"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["закрытый", "запертый"],
+      "eng": ["closed"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["дома"],
+      "eng": ["at home"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["на работе"],
+      "eng": ["at work"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в парке"],
+      "eng": ["in the park"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в лесу"],
+      "eng": ["in the forest"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["жить"],
+      "eng": ["live"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["иметь"],
+      "eng": ["have"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["слушать"],
+      "eng": ["hear"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["проводить", "тратить"],
+      "eng": ["spend"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сидеть"],
+      "eng": ["sit"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["стоять"],
+      "eng": ["stand"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["находить"],
+      "eng": ["find"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["терять"],
+      "eng": ["lose"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ручка"],
+      "eng": ["pen"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["карандаш"],
+      "eng": ["pencil"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["книга"],
+      "eng": ["book"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["тетрадь", "записная книжка"],
+      "eng": ["notebook"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["это", "эта", "этот"],
+      "eng": ["this"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["то", "тот", "та"],
+      "eng": ["that"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["эти"],
+      "eng": ["these"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["те"],
+      "eng": ["those"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["много"],
+      "eng": ["a lot of"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["интересный"],
+      "eng": ["interesting"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["быстро"],
+      "eng": ["quickly"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["быстрый"],
+      "eng": ["quick"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["медленно"],
+      "eng": ["slowly"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["медленный"],
+      "eng": ["slow"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["завтракать"],
+      "eng": ["have breakfast"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["обедать"],
+      "eng": ["have lunch"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ужинать"],
+      "eng": ["have dinner"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["любимый"],
+      "eng": ["favorite"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["просыпаться"],
+      "eng": ["wake up"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вставать"],
+      "eng": ["get up"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["умываться"],
+      "eng": ["wash up"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["чистить зубы"],
+      "eng": ["brush teeth"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": [""],
+      "eng": [""],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    }
+  ],
+  "Real Talk": [],
+  "Winter is Coming": [],
+  "Better than Others": [],
+  "Upgrade": [],
+  "Guru": []
 }
