@@ -561,7 +561,939 @@
       "hint": ""
     }
   ],
-  "Real Talk": [],
+  "Real Talk": [
+    {
+      "rus": ["полицейский участок"],
+      "eng": ["police office"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["больница"],
+      "eng": ["hospital"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ресторан"],
+      "eng": ["restaurant"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["торговый центр"],
+      "eng": ["mall"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["прибытие"],
+      "eng": ["arrival"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["информационная стойка"],
+      "eng": ["information desk"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["пограничная охрана"],
+      "eng": ["border security"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["прибывать"],
+      "eng": ["arrive"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["отбывать"],
+      "eng": ["depart"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["главная площадь"],
+      "eng": ["main square"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["улица"],
+      "eng": ["street"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["гулять", "ходить пешком"],
+      "eng": ["walk"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["водить", "везти", "ехать за рулём"],
+      "eng": ["drive"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["метро"],
+      "eng": ["subway"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["поезд"],
+      "eng": ["train"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["автобус"],
+      "eng": ["bus"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["машина", "автомобиль"],
+      "eng": ["car"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["такси", "кеб"],
+      "eng": ["cab", "taxi"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["зеркало"],
+      "eng": ["mirror"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["кровать"],
+      "eng": ["bed"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["спальное белье"],
+      "eng": ["sheets"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["подушка"],
+      "eng": ["pillow"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["диван"],
+      "eng": ["couch", "sofa"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["багаж"],
+      "eng": ["luggage"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["быстро", "быстрый"],
+      "eng": ["fast"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["к сожалению"],
+      "eng": ["unfortunately"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["небоскрёб"],
+      "eng": ["skyscraper"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["идеально"],
+      "eng": ["perfect"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["объяснять"],
+      "eng": ["explain"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["встречать", "знакомиться"],
+      "eng": ["meet"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["приглашать"],
+      "eng": ["invite"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["говорить"],
+      "eng": ["talk"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["женатый", "замужняя"],
+      "eng": ["married"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["люди"],
+      "eng": ["people"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["морепродукты"],
+      "eng": ["seafood"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["мясо"],
+      "eng": ["meet"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["креветки"],
+      "eng": ["shrimps"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["гарнир"],
+      "eng": ["side dish"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["тепло", "теплый"],
+      "eng": ["warm"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["горачо", "горячий", "жаркий", "жарко"],
+      "eng": ["hot"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["холодно", "холодный"],
+      "eng": ["cold"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ледяной", "замерзание"],
+      "eng": ["freezing"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["потерянный"],
+      "eng": ["lost"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["инцидент"],
+      "eng": ["incident"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["на улице", "на открытом воздухе"],
+      "eng": ["outdoors"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сосед"],
+      "eng": ["neighbor"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["кухня"],
+      "eng": ["kitchen"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["туалет", "уборная"],
+      "eng": ["restroom", "toilet"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["гостиная"],
+      "eng": ["living room"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["коридор"],
+      "eng": ["hallway"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ванная"],
+      "eng": ["bathroom"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["головная боль"],
+      "eng": ["headache"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["боль в животе"],
+      "eng": ["stomachache"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["живот"],
+      "eng": ["stomach"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["нога"],
+      "eng": ["leg"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["помощь", "помогать"],
+      "eng": ["help"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["аптека"],
+      "eng": ["pharmacy"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["кошелёк"],
+      "eng": ["wallet"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["спать"],
+      "eng": ["sleep"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["учить"],
+      "eng": ["learn"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["столица"],
+      "eng": ["capital"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["покупать"],
+      "eng": ["buy"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["цена"],
+      "eng": ["price"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["скидка"],
+      "eng": ["discount"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["деньги"],
+      "eng": ["money"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["разговаривать", "разговор"],
+      "eng": ["talk"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ответ", "отвечать"],
+      "eng": ["answer"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вопрос"],
+      "eng": ["question"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["приносить"],
+      "eng": ["bring"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["повторять"],
+      "eng": ["repeat"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["слышать"],
+      "eng": ["hear"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["тихий", "спокойный"],
+      "eng": ["quiet"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["беседа", "разговор"],
+      "eng": ["conversation"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["путешествие", "поездка"],
+      "eng": ["trip"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["лагерь"],
+      "eng": ["camp"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["пляж"],
+      "eng": ["beach"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["лес"],
+      "eng": ["forest"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["пешеходный переход"],
+      "eng": ["crosswalk"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["свет"],
+      "eng": ["light"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["светофор"],
+      "eng": ["traffic lights"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["знак"],
+      "eng": ["sign"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["столб"],
+      "eng": ["pole"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["бумага"],
+      "eng": ["paper"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["лист"],
+      "eng": ["sheet"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["конверт"],
+      "eng": ["envelope"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["книга"],
+      "eng": ["book"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ручка"],
+      "eng": ["pen"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вещи"],
+      "eng": ["stuff"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["одежда"],
+      "eng": ["clothes"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["носить"],
+      "eng": ["wear"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["платье"],
+      "eng": ["dress"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["джинсы"],
+      "eng": ["jeans"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["шорты"],
+      "eng": ["shorts"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["очки"],
+      "eng": ["glasses"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["яркий", "блестящий"],
+      "eng": ["bright"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["рабочий стол"],
+      "eng": ["desk"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["приемная"],
+      "eng": ["reception"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["очередь"],
+      "eng": ["line"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["работник", "служащий"],
+      "eng": ["employее"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["работодатель"],
+      "eng": ["employer"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["звезды"],
+      "eng": ["stars"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["луна"],
+      "eng": ["moon"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["небо"],
+      "eng": ["sky"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["солнце"],
+      "eng": ["sun"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вселенная"],
+      "eng": ["universe"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сумасшедший", "безумный"],
+      "eng": ["crazy"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ремень"],
+      "eng": ["belt"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["скорость"],
+      "eng": ["speed"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["тормоз"],
+      "eng": ["brake"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["гез", "бензин"],
+      "eng": ["gas"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["нажимать", "толкать"],
+      "eng": ["push"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["заканчиваться"],
+      "eng": ["run out of"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["заправка"],
+      "eng": ["gas station"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["зарядка"],
+      "eng": ["charge"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["чехол"],
+      "eng": ["case"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["экран"],
+      "eng": ["screen"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["громкость"],
+      "eng": ["volume"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["взглянуть", "посмотреть"],
+      "eng": ["take a look"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["выходные"],
+      "eng": ["weekends"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["празднование", "торжество"],
+      "eng": ["celebration"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["праздновать"],
+      "eng": ["celebrate"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вечеринка", "тусовка"],
+      "eng": ["party"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["выходить куда то", "отдыхать", "бывать в обществе"],
+      "eng": ["go out"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["отношения", "взаимоотношения"],
+      "eng": ["relationship"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["одинаково", "также"],
+      "eng": ["same"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в предвкушении", "возбуждённый"],
+      "eng": ["excited"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["удивительный", "поразительный", "восхитительный"],
+      "eng": ["amazing"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["опробовать", "испытать", "протестить"],
+      "eng": ["try out"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["слово"],
+      "eng": ["word"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["параграф"],
+      "eng": ["paragraph"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["оглавление", "название"],
+      "eng": ["title"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["страница"],
+      "eng": ["page"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["описывать", "описать"],
+      "eng": ["describe"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    }
+  ],
   "Winter is Coming": [],
   "Better than Others": [],
   "Upgrade": [],
