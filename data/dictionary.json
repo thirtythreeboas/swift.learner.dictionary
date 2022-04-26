@@ -1487,7 +1487,365 @@
       "hint": ""
     }
   ],
-  "Winter is Coming": [],
+  "Winter is Coming": [
+    {
+      "rus": ["красивый"],
+      "eng": ["handsome"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["забавный"],
+      "eng": ["funny"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["понимающий"],
+      "eng": ["understanding"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["хороший"],
+      "eng": ["nice"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["готовый"],
+      "eng": ["ready"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сейчас"],
+      "eng": ["now"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["здесь"],
+      "eng": ["here"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вдохновлять"],
+      "eng": ["inspire"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["мотивировать"],
+      "eng": ["motivate"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["расстроенный"],
+      "eng": ["upset"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["опасный"],
+      "eng": ["dangerous"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["великолепный"],
+      "eng": ["great"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["костюм"],
+      "eng": ["suit"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["каждый день"],
+      "eng": ["every day"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["иногда"],
+      "eng": ["sometimes"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["часто"],
+      "eng": ["often"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["всегда"],
+      "eng": ["always"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["обычно"],
+      "eng": ["usually"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["никогда"],
+      "eng": ["never"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["редко"],
+      "eng": ["rarely", "seldom"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["преимущество"],
+      "eng": ["advantage"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["недостаток"],
+      "eng": ["disadvantage"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["социальная сеть"],
+      "eng": ["social network"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["дешёвый"],
+      "eng": ["cheap"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["дорогой"],
+      "eng": ["expensive"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["на следующей неделе"],
+      "eng": ["next week"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в следующем месяце"],
+      "eng": ["next month"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в следующем году"],
+      "eng": ["next year"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в следующий раз"],
+      "eng": ["next time"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["уверенный"],
+      "eng": ["sure"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["больше не", "уже не"],
+      "eng": ["anymore"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["час"],
+      "eng": ["Hour"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["через", "в"],
+      "eng": ["in"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["скоро", "вскоре"],
+      "eng": ["soon"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в будущем"],
+      "eng": ["in the future"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["покупать", "купить"],
+      "eng": ["buy"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["приносить"],
+      "eng": ["bring"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["иметь"],
+      "eng": ["have"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["приходить", "приезжать"],
+      "eng": ["come"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["делать"],
+      "eng": ["do"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["чувствовать"],
+      "eng": ["feel"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["брать", "взять"],
+      "eng": ["take"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["делать", "заставлять"],
+      "eng": ["make"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["уезжать", "уходить", "оставлять", "покидать"],
+      "eng": ["leave"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["на прошлой неделе"],
+      "eng": ["last week"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в прошлом месяце"],
+      "eng": ["last month"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в прошлом году"],
+      "eng": ["last year"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вчера"],
+      "eng": ["yesterday"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["назад"],
+      "eng": ["ago"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в прошлом"],
+      "eng": ["in the past"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["позавчера"],
+      "eng": ["the day before yesterday"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    }
+  ],
   "Better than Others": [],
   "Upgrade": [],
   "Guru": []
