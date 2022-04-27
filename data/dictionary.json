@@ -1846,7 +1846,519 @@
       "hint": ""
     }
   ],
-  "Better than Others": [],
+  "Better than Others": [
+    {
+      "rus": ["Как поживаешь?", "Как дела?"],
+      "eng": ["How are you doing?", "How is it going?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Пустяки.", "Не за что."],
+      "eng": ["It’s nothing."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["нет проблем"],
+      "eng": ["no problem"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Как насчёт...?"],
+      "eng": ["How about...?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Что касается..."],
+      "eng": ["As for..."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Не хочешь...", "Не хотите ли вы..."],
+      "eng": ["Would you like..."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Я хотел бы..."],
+      "eng": ["I’d like...", "I would like..."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["рядом", "возле", "около"],
+      "eng": ["beside"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["кроме того"],
+      "eng": ["besides"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вкратце", "короче говоря"],
+      "eng": ["in short"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["поживём - увидим"],
+      "eng": ["wait and see"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["кстати", "между прочим"],
+      "eng": ["by the way"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["поэтому"],
+      "eng": ["that's why"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["тоже", "также"],
+      "eng": ["also", "as well"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Я уверен."],
+      "eng": ["I'm sure."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Готов поспорить.", "Бьюсь об заклад.", "Держу пари."],
+      "eng": ["I bet."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["без сомнения"],
+      "eng": ["no doubt"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Я вполне уверен."],
+      "eng": ["I'm pretty sure."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["может быть"],
+      "eng": ["maybe"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["возможно"],
+      "eng": ["perhaps"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вероятно"],
+      "eng": ["probably"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Я считаю...", "Наверное..."],
+      "eng": ["I guess..."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сомневаться"],
+      "eng": ["have doubts", "doubt"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["насколько я знаю"],
+      "eng": ["as far as I know"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["насколько я помню"],
+      "eng": ["as far as I remember"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["у меня такое ощущение"],
+      "eng": ["I have a feeling"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Кажется"],
+      "eng": ["It seems..."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Мне кажется..."],
+      "eng": ["It seems to me..."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["собираться"],
+      "eng": ["be going to", "be gonna", "be about to"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["случаться"],
+      "eng": ["happen"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["бросать", "отказываться"],
+      "eng": ["give up"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["откладывать"],
+      "eng": ["put off"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["уходить", "уезжать", "покидать"],
+      "eng": ["leave"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["смеяться над"],
+      "eng": ["laugh at"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["ссориться"],
+      "eng": ["quarrel"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["надевать"],
+      "eng": ["put on"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["снимать"],
+      "eng": ["take off"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["включать"],
+      "eng": ["turn on"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["выключать"],
+      "eng": ["turn off"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["отворачиваться"],
+      "eng": ["turn away"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["искать"],
+      "eng": ["look for", "search for"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["скрывать"],
+      "eng": ["hide"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["выяснять", "понять"],
+      "eng": ["figure out"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["обдумывать"],
+      "eng": ["think over"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["сейчас"],
+      "eng": ["now"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["в данный момент"],
+      "eng": ["at this moment"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["оставаться на связи"],
+      "eng": ["stay in touch"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["оставайся на связи", "держать в курсе"],
+      "eng": ["keep in touch"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["забывать"],
+      "eng": ["forget"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["скучать", "пропускать", "упускать"],
+      "eng": ["miss"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["золотая середина"],
+      "eng": ["middle ground"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["намекать"],
+      "eng": ["give a hint"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["пытаться", "стараться"],
+      "eng": ["try"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": [""],
+      "eng": ["everything"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["вестись" ,"клевать", "наживка"],
+      "eng": ["bite"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Откуда ты знаешь?"],
+      "eng": ["How do you know?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Чем занимаешься?"],
+      "eng": ["What are you up to?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Как тебе?"],
+      "eng": ["How do you like it?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["разговаривать с"],
+      "eng": ["talk to", "talk with"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["много"],
+      "eng": ["many", "much"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["возражать", "ум", "разум"],
+      "eng": ["mind"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["приходить на ум"],
+      "eng": ["come to one's mind"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["придумать"],
+      "eng": ["come up with"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["принимать решение"],
+      "eng": ["make up one's mind"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["передумать"],
+      "eng": ["change one's mind"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["по моему мнению"],
+      "eng": ["to my mind"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Я за."],
+      "eng": ["I’m in."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Понимаешь?"],
+      "eng": ["Get it?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Понял?"],
+      "eng": ["Got it?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Да ладно!"],
+      "eng": ["You don't say!"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["У меня есть то, что нужно."],
+      "eng": ["I have what it takes."],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Ты шутишь?", "Ты прикалываешься?"],
+      "eng": ["Are you kidding me?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    },
+    {
+      "rus": ["Ты серьезно?"],
+      "eng": ["Are you serious?"],
+      "isCorrect": false,
+      "point": 1,
+      "hint": ""
+    }
+  ],
   "Upgrade": [],
   "Guru": []
 }
