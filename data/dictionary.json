@@ -802,7 +802,7 @@
     },
     {
       "rus": ["мясо"],
-      "eng": ["meet"],
+      "eng": ["meat"],
       "isCorrect": false,
       "point": 1,
       "hint": ""
